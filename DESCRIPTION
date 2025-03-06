@@ -5,7 +5,8 @@ Version: 0.1.0
 Authors@R: c(
     person(
       "Peter", "Eng",
-      email = "peter.eng333@gmail.com"
+      email = "peter.eng333@gmail.com",
+      role = c("aut", "cre")
     )
   )
 Description: Provides clean data for League of Legends Visual Analysis with a script for cleaning and the original data file.
